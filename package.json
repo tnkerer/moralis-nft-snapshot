@@ -1,0 +1,13 @@
+{
+  "name": "moralis-snapshot",
+  "version": "1.0.0",
+  "description": "Snapshot of all NFT owners and its respective balances of that particular NFT.",
+  "main": "snapshot.js",
+  "author": "menezesphill",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "moralis": "^1.5.9"
+  }
+}
