@@ -1,6 +1,6 @@
 # 🔎 `Moralis NFT Snapshot` 
 
-Moralis NFT API will only return 500 itens at a time. For that reason, a simple logic is needed to fetch all data from a given NFT collection. This script uses a simple logic to loop through all itens in an NFT collection and write out the balances of each unique holder from that collection.
+Moralis NFT API will only return 500 itens at a time when its is called. For that reason, a simple logic is needed to fetch all data from a given NFT collection. This script uses a simple logic to loop through all itens in an NFT collection and write out the balances of each unique holder from that collection.
 
 # 🚀 `Quick Start`
 
