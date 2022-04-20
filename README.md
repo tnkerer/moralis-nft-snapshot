@@ -50,7 +50,6 @@ Inside `snapshot.js`, configure the section `options`:
 const options = {
   address: "0xc99c679c50033bbc5321eb88752e89a93e9e83c5",  // Paste the NFT address you want to fetch
   chain: "0x1", // Paste the NFT chain ID (Hexadecimal)
-  offset: 0,
 };
 ```
 
