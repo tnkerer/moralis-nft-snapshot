@@ -57,7 +57,7 @@ A list of all supported chains can be found [Here!](https://docs.moralis.io/mora
 
 ### ✅ Run the script
 
-You can run the script by using:
+You can run the script by writing:
 
 ```sh
 node snapshot.js
