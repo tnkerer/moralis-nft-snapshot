@@ -8,6 +8,7 @@
   "dependencies": {
     "dotenv": "^16.0.0",
     "fs": "^0.0.1-security",
-    "moralis": "^1.5.9"
+    "moralis": "^1.5.9",
+    "util": "^0.12.4"
   }
 }
